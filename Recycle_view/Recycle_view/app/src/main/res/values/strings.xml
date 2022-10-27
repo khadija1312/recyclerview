@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycle_view</string>
+    
+    <string-array name="android_versions">
+        <item>Chocolates</item>
+        <item>Cadbury</item>
+        <item>Hersheys</item>
+        <item>Kitkat</item>
+        <item>Fererro Rocher</item>
+        <item>Kinder</item>
+        <item>Mars</item>
+        <item>Snickers</item>
+        <item>Twix</item>
+        <item>Toblerone</item>
+        <item>Lindt Lindor</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+        <item>Chocolates</item>
+    </string-array>
+
+
+
+</resources>
